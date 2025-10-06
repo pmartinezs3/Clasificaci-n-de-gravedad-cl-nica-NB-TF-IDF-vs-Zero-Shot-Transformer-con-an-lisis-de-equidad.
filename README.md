@@ -1,0 +1,1 @@
+# Clasificaci-n-de-gravedad-cl-nica-NB-TF-IDF-vs-Zero-Shot-Transformer-con-an-lisis-de-equidad.
