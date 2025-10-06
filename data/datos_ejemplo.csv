@@ -1,0 +1,4 @@
+texto_clinico,edad,genero,afeccion,gravedad
+"El paciente presenta síntomas leves como dolor de cabeza y tos",43,M,resfriado común,leve
+"Consulta por hipertensión leve sin signos de alarma",34,F,hipertensión leve,moderado
+"Evolución rápida del cuadro clínico, compatible con infarto",59,M,infarto agudo de miocardio,severo
