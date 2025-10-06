@@ -1,6 +1,6 @@
 # Clasificación de Gravedad Clínica (ES) — NB TF-IDF vs Zero‑Shot
 
-**Objetivo.** Clasificar la **gravedad** de reportes clínicos breves en español (`leve`, `moderado`, `severo`)
+**Objetivo.** Clasificar la **gravedad** de reportes clínicos breves (`leve`, `moderado`, `severo`)
 y comparar un enfoque tradicional (**Naive Bayes + TF-IDF**) con un enfoque **Zero‑Shot Transformer**.
 Además, estimar F1 por **género** y **banda etaria** como aproximación simple a **equidad** del modelo.
 
