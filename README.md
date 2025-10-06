@@ -7,7 +7,6 @@ Además, estimar F1 por **género** y **banda etaria** como aproximación simple
 ## Dataset
 Conjunto de textos clínicos sintéticos/anónimos con columnas:
 `texto_clinico`, `edad`, `genero` (`M`/`F`), `afeccion`, `gravedad`.
-> Coloca el CSV en `data/datos.csv` (o edita las rutas en los scripts).
 
 ## Metodología
 - **NB TF‑IDF**: limpieza (minúsculas, stopwords), TF‑IDF, `MultinomialNB`.
